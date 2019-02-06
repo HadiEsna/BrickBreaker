@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hadi/edu/97-1/pp/proj/base-master/src/import_struct.h
+
+/home/hadi/edu/97-1/pp/proj/base-master/src/init.c
+
+/home/hadi/edu/97-1/pp/proj/base-master/src/logic.c
+
+/home/hadi/edu/97-1/pp/proj/base-master/src/main.c
+time.h
+-
+import_struct.h
+/home/hadi/edu/97-1/pp/proj/base-master/src/import_struct.h
+
+/home/hadi/edu/97-1/pp/proj/base-master/src/phisics.c
+
+/home/hadi/edu/97-1/pp/proj/base-master/src/view.c
+

@@ -1,0 +1,1 @@
+#ifndef PROJECT_NAME_PHISICS_H#define PROJECT_NAME_PHISICS_Hvoid move_gun();void move_ball(int);int make_ball();int keyboard();int check_bomb(int j, int i);#endif //PROJECT_NAME_PHISICS_H

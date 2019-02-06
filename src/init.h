@@ -1,0 +1,1 @@
+#ifndef PROJECT_NAME_INIT_H#define PROJECT_NAME_INIT_Hvoid init();void init_window();void save();#endif //PROJECT_NAME_INIT_H

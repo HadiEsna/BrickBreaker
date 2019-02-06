@@ -1,0 +1,1 @@
+#ifndef PROJECT_NAME_VIEW_H#define PROJECT_NAME_VIEW_Hvoid draw();void draw_screen();void draw_block() ;#endif //PROJECT_NAME_VIEW_H
